@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.lemall.test</groupId>
+    <artifactId>test</artifactId>
+    <version>0.1</version>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <mongo.driver.version>3.0.3</mongo.driver.version>
+        <hive.version>0.10.0</hive.version>
+        <kafka.version>0.8.2.1</kafka.version>
+        <junit.version>4.10</junit.version>
+        <storm.version>0.9.5</storm.version>
+        <storm.kafka.version>0.9.5</storm.kafka.version>
+        <slf4j.version>1.7.12</slf4j.version>
+        <avro.version>1.7.6</avro.version>
+        <guava.version>19.0</guava.version>
+        <jedis.version>2.7.2</jedis.version>
+        <storm.kafka.version>0.10.1</storm.kafka.version>
+    </properties>
+
+        
+</project>
